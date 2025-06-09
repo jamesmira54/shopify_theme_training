@@ -1,0 +1,28 @@
+# Node.js
+.shopify/
+node_modules/
+package-lock.json
+
+# Build output (if you're compiling Tailwind CSS)
+assets/theme.css
+assets/theme.css.map
+
+# Tailwind source files (optional if you keep them outside Shopify)
+src/
+css/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional)
+.vscode/
+
+# Theme Check cache
+.theme-check.yml
+tmp/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
